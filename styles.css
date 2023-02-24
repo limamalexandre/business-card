@@ -1,0 +1,26 @@
+body {
+    margin: 20px;
+    font-family: Trebuchet MS, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #4361ee;
+    color: #ffffff;
+    border-bottom: 6px solid #00171f;
+    border-radius: 4px;
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
